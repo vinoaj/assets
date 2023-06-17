@@ -115,3 +115,7 @@ pip-selfcheck.json
 
 #Mac OS X
 .DS_Store
+
+.databricks
+typings/
+
